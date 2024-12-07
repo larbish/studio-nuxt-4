@@ -1,1 +1,3 @@
-export default defineNuxtSchema({});
+export default defineNuxtSchema({
+  appConfig: {},
+});

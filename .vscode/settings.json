@@ -2,5 +2,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "npm.packageManager": "pnpm",
-  "npm-scripts.showStartNotification": false
+  "npm-scripts.showStartNotification": false,
+  "cSpell.words": ["Nuxt"]
 }
